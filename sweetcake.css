@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(op.png);
+    background-size: auto;
+    height: 1400px;
+}
+#box1{
+    border: 1px solid rgb(255, 255, 255);
+    margin: 0px 0;
+    padding: 0px;
+    width: 1490px;
+    height: 300px;
+    float:left;
+    background-color: rgb(224, 182, 119);
+    background-image: url(mv.png);
+    background-size:auto;
+    background-size: contain;
+}
+#box{
+    float: right;
+    margin: -285px 10px;
+}
+#box2{
+    float:left;
+    margin: -285px 10px;
+}
+#box1 > h1{
+    text-align: center;
+    margin: 50px auto 0 auto;
+    font-family: 'Open sans' , sans-serif;
+}
+h3{
+    text-align: center;
+}
+
+#box4{
+    border: 1px solid;
+
+}
+#box5{
+    float: right;
+    border: 1px solid;
+    padding: 20px;
+    margin: 40px 100px;
+    width: 500px;
+    height: 430px;
+    border-radius: 30px;
+    background-image: url(chef3.png);
+    background-size:contain;
+}
+#box5 > image{
+    height: 100px;
+}
+h2{
+    text-align: center;
+    padding: 10px;
+    font-size: xx-large;
+    font-family:'Open Sans' , sans-serif;  
+    display: block;
+    font-weight: 300;
+}
+p{
+    text-align: center;
+    padding: 10px;
+    font-weight: 100;
+    
+}
+#box1 > img{
+    margin: 10px auto;
+    display: block;
+    border-radius: 220px;
+   
+}
+#box6{
+    border: 2px solid;
+    float: left;
+    margin: 20px 20px ;
+    width: 660px;
+    height: 469px;
+}
