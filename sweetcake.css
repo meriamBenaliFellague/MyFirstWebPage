@@ -78,7 +78,8 @@ p{
 #box6{
     border: 2px solid;
     float: left;
-    margin: 20px 20px ;
+    margin-left: 20px;
+    margin-top: 20px;
     width: 660px;
     height: 469px;
 }
